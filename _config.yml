@@ -1,0 +1,69 @@
+url: http://dash.tirelesswake.com
+baseurl:
+
+# Site settings
+title: Dashboard
+email: dash@tirelesswake.com
+description: "Dashboard for keeping track of things."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 8f020f
+  secondary: D46A6A
+  secondary-dark: 38458d
+
+# Team names, titles and social links
+people:
+- name: Jim Howk
+  pic: 1
+#  social:
+#    - title: twitter
+#      url: https://twitter.com/howkj1
+#    - title: github
+#      url: https://github.com/tirelesswake
+#    - title: linkedin
+#      url: https://www.linkedin.com/in/jimhowk
+
+
+- name: Josh McCall
+  pic: 2
+#  social:
+#    - title: twitter
+#      url: #
+#    - title: github
+#      url: #
+#    - title: linkedin
+#      url: #
+
+- name: Sarah Howk
+  pic: 3
+#  social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+#    - title: linkedin
+#      url: #
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+#social:
+#  - title: twitter
+#    url: http://twitter.com/jekyllrb
+#  - title: facebook
+#    url:
+#  - title: stack-overflow
+#    url: http://stackoverflow.com/questions/tagged/jekyll
+#  - title: bitbucket
+#    url: http://bitbucket.org/jekyll
+#  - title: github
+#    url: http://github.com/jekyll
+
+# Postal address (add as many lines as necessary)
+#address:
+#  - line: 1035 68th Street
+#  - line: West Des Moines, IA 50266
+
+# Build settings
+markdown: kramdown
+permalink: pretty
