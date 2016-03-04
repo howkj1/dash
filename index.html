@@ -1,20 +1,45 @@
----
-layout: dashtemplate
----
+<!doctype html>
 
-<div class="home">
+<html lang="en">
+<head>
+  <meta charset="utf-8">
 
-  <h1>Posts</h1>
+  <title>TW Dashboard</title>
+  <meta name="description" content="HTML5 Dashboard">
+  <meta name="author" content="SitePoint">
 
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
+  <link rel="stylesheet" href="css/styles.css?v=1.0">
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <!--[if lt IE 9]>
+  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+</head>
 
-</div>
+<body>
+
+
+  <section class="sidebar">
+
+[ ]  I'm a sidebar </br>
+[ ]  item2 </br>
+[ ]  item3 </br>
+
+
+  </section>
+
+
+  <section class="main">
+
+    I'm the main section.
+    </br>
+    I like to do stuffs
+
+
+
+
+  </section>
+
+
+<!--  <script src="js/scripts.js"></script> -->
+</body>
+</html>
