@@ -152,7 +152,7 @@ $31.50 via stacksocial
 
 ### Learning Academy :
 
-####* [Mammoth Interactive - howkj1](http://training.mammothinteractive.com/)
+#### * [Mammoth Interactive - howkj1](http://training.mammothinteractive.com/)
 
 ![http://training.mammothinteractive.com/](/images/MammothInteractive1.png)
 ![http://training.mammothinteractive.com/](/images/MammothInteractive2.png)
