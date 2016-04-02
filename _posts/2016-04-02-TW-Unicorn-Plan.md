@@ -159,14 +159,14 @@ $31.50 via stacksocial
 
 ####* [StackSkills - howkj1](https://stackskills.com/courses/enrolled)
 
-![https://stackskills.com/courses/enrolled](/images/stackskills1.png)
+![https://stackskills.com/courses/enrolled](/images/stackskills-howkj1.png)
 
 ####* [StackSkills - TW](https://stackskills.com/courses/enrolled)
 >Free: Zenva 'Programming for Entrepreneurs' JavaScript Course -
 >FREE -
 >Quantity: 1
 
-![https://stackskills.com/courses/enrolled](/images/stackskills2.png)
+![https://stackskills.com/courses/enrolled](/images/stackskills-TW.png)
 
 
 <br />
