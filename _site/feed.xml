@@ -5,8 +5,8 @@
     <description>My Solarized digital notes</description>
     <link>http://dash.jimhowk.com/</link>
     <atom:link href="http://dash.jimhowk.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 02 Apr 2016 03:18:57 -0500</pubDate>
-    <lastBuildDate>Sat, 02 Apr 2016 03:18:57 -0500</lastBuildDate>
+    <pubDate>Sat, 02 Apr 2016 03:52:21 -0500</pubDate>
+    <lastBuildDate>Sat, 02 Apr 2016 03:52:21 -0500</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -19,6 +19,8 @@
 &lt;hr /&gt;
 
 &lt;!-- Edit Content Below This Line --&gt;
+
+&lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;getting-started-&quot;&gt;Getting Started :&lt;/h1&gt;
 
@@ -33,6 +35,12 @@
   &lt;li&gt;&lt;a href=&quot;https://mail.tirelesswake.com&quot;&gt;TW email&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
+
 &lt;h1 id=&quot;user-groups--meetups-&quot;&gt;User Groups + Meetups :&lt;/h1&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://devopsdsm.com/&quot;&gt;DevOps Des Moines&lt;/a&gt;&lt;/li&gt;
@@ -40,6 +48,12 @@
   &lt;li&gt;&lt;a href=&quot;&quot;&gt;Amazon AWS User Group - Des Moines,IA&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;&quot;&gt;Atlassian User Group - Des Moines, IA&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;game-development-&quot;&gt;Game Development :&lt;/h1&gt;
 &lt;p&gt;##### Regional Activities : 
@@ -80,17 +94,31 @@ Press “Direct Results Mode” then “Open Results Window”&lt;/p&gt;
 
 &lt;h3 id=&quot;learning-academy-&quot;&gt;Learning Academy :&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.udemy.com/home/my-courses/learning/?ref=nav&quot;&gt;Udemy - TW - courses&lt;/a&gt;
-&lt;img src=&quot;../images/udemy1.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.udemy.com/learn-3d-modeling-in-blender-in-1-hour/learn/v4/content&quot;&gt;Udemy - TW - learn blender in an hour&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.kickstarter.com/projects/1555758454/learn-game-development-by-building-100-games&quot;&gt;Mammoth Kickstarter - Learn to Build 100 Games!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.udemy.com/home/my-courses/learning/?ref=nav&quot;&gt;Udemy - TW - courses&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Learn To Code By Making Games - Unity 5 Developer Course
+$31.50 via stacksocial&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/udemy1.png&quot; alt=&quot;&quot; /&gt;
+* &lt;a href=&quot;https://www.udemy.com/learn-3d-modeling-in-blender-in-1-hour/learn/v4/content&quot;&gt;Udemy - TW - learn blender in an hour&lt;/a&gt;
+* &lt;a href=&quot;https://www.kickstarter.com/projects/1555758454/learn-game-development-by-building-100-games&quot;&gt;Mammoth Kickstarter - Learn to Build 100 Games!&lt;/a&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;cool-sites--projects&quot;&gt;Cool Sites + Projects:&lt;/h4&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://matchola.itch.io/battlesuntold&quot;&gt;The Battles Untold - cool pixel art game&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/RetroPie?page=1&quot;&gt;RetroPie - Raspberry Pi Emulation&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;software-development-&quot;&gt;Software Development :&lt;/h1&gt;
 
@@ -99,6 +127,12 @@ Press “Direct Results Mode” then “Open Results Window”&lt;/p&gt;
   &lt;li&gt;&lt;a href=&quot;https://developer.apple.com/xcode/download/&quot;&gt;Download Xcode for free&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://stackoverflow.com/questions/17126938/how-to-transfer-xcode-installations-between-macs&quot;&gt;How to transfer xcode installations between macs&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;web-development-&quot;&gt;Web Development :&lt;/h1&gt;
 &lt;ul&gt;
@@ -111,13 +145,27 @@ Press “Direct Results Mode” then “Open Results Window”&lt;/p&gt;
 
 &lt;h3 id=&quot;learning-academy--1&quot;&gt;Learning Academy :&lt;/h3&gt;
 
+&lt;p&gt;####* &lt;a href=&quot;http://training.mammothinteractive.com/&quot;&gt;Mammoth Interactive - howkj1&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/MammothInteractive1.png&quot; alt=&quot;http://training.mammothinteractive.com/&quot; /&gt;
+&lt;img src=&quot;../images/MammothInteractive2.png&quot; alt=&quot;http://training.mammothinteractive.com/&quot; /&gt;&lt;/p&gt;
+
 &lt;p&gt;####* &lt;a href=&quot;https://stackskills.com/courses/enrolled&quot;&gt;StackSkills - howkj1&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;../images/stackskills1.png&quot; alt=&quot;https://stackskills.com/courses/enrolled&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;####* &lt;a href=&quot;https://stackskills.com/courses/enrolled&quot;&gt;StackSkills - TW&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;####* &lt;a href=&quot;https://stackskills.com/courses/enrolled&quot;&gt;StackSkills - TW&lt;/a&gt;
+&amp;gt;Free: Zenva ‘Programming for Entrepreneurs’ JavaScript Course -
+&amp;gt;FREE -
+&amp;gt;Quantity: 1&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;../images/stackskills2.png&quot; alt=&quot;https://stackskills.com/courses/enrolled&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;devops--systems-deployment-&quot;&gt;DevOps + Systems Deployment :&lt;/h1&gt;
 &lt;p&gt;##### LetsEncrypt SSL Certificates for Synology :
@@ -125,6 +173,12 @@ Press “Direct Results Mode” then “Open Results Window”&lt;/p&gt;
 * &lt;a href=&quot;https://www.reddit.com/r/synology/comments/3vdjgq/lets_encrypt_certs_work_great_on_synology_units/&quot;&gt;Reddit - LetsEncrypt Synology&lt;/a&gt;
 * &lt;a href=&quot;http://deepplaya.com/w7pea/2016/01/adding-letsencrypt-org-ssl-to-your-synology-nas/&quot;&gt;DIY - LetsEncrypt on Synology&lt;/a&gt;
 * &lt;a href=&quot;http://www.stefandingemanse.nl/how-to-use-lets-encrypt-ssl-certificate-on-synology-dsm/&quot;&gt;DSM 6 - LetsEncrypt&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;music&quot;&gt;Music&lt;/h1&gt;
 &lt;ul&gt;

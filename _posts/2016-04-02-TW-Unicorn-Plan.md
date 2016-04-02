@@ -16,6 +16,11 @@ published: true
 
 <!-- Edit Content Below This Line -->
 
+
+</br>
+
+
+
 # Getting Started :
 
 * [Gmail](https://mail.google.com/mail/u/0/#inbox)
@@ -27,6 +32,12 @@ published: true
 * [PacktPub - TW Library](https://www.packtpub.com/account/my-ebooks)
 * [TW email](https://mail.tirelesswake.com)
 
+</br>
+
+</br>
+
+
+</br>
 
 
 # User Groups + Meetups :
@@ -35,6 +46,15 @@ published: true
 * [Amazon AWS User Group - Des Moines,IA]()
 * [Atlassian User Group - Des Moines, IA]()
 
+
+</br>
+
+
+</br>
+
+
+
+</br>
 
 
 # Game Development :
@@ -71,20 +91,45 @@ published: true
 
 ### Learning Academy : 
 * [Udemy - TW - courses](https://www.udemy.com/home/my-courses/learning/?ref=nav)
+
+> * Learn To Code By Making Games - Unity 5 Developer Course
+$31.50 via stacksocial
+
 ![](../images/udemy1.png)
 * [Udemy - TW - learn blender in an hour](https://www.udemy.com/learn-3d-modeling-in-blender-in-1-hour/learn/v4/content)
 * [Mammoth Kickstarter - Learn to Build 100 Games!](https://www.kickstarter.com/projects/1555758454/learn-game-development-by-building-100-games)
+
 
 
 #### Cool Sites + Projects:
 * [The Battles Untold - cool pixel art game](https://matchola.itch.io/battlesuntold)
 * [RetroPie - Raspberry Pi Emulation](https://github.com/RetroPie?page=1)
 
+
+</br>
+
+
+</br>
+
+
+</br>
+
+
 # Software Development : 
 
 * [GitHub - howkj1 - repositories](https://github.com/howkj1?tab=repositories)
 * [Download Xcode for free](https://developer.apple.com/xcode/download/)
 * [How to transfer xcode installations between macs](http://stackoverflow.com/questions/17126938/how-to-transfer-xcode-installations-between-macs)
+
+
+</br>
+
+
+</br>
+
+
+</br>
+
 
 # Web Development : 
 * [This Page!](http://dash.jimhowk.com/)
@@ -95,13 +140,31 @@ published: true
 
 ### Learning Academy : 
 
+####* [Mammoth Interactive - howkj1](http://training.mammothinteractive.com/)
+
+![http://training.mammothinteractive.com/](../images/MammothInteractive1.png)
+![http://training.mammothinteractive.com/](../images/MammothInteractive2.png)
+
 ####* [StackSkills - howkj1](https://stackskills.com/courses/enrolled)
 
 ![https://stackskills.com/courses/enrolled](../images/stackskills1.png)
 
 ####* [StackSkills - TW](https://stackskills.com/courses/enrolled)
+>Free: Zenva 'Programming for Entrepreneurs' JavaScript Course -
+>FREE -
+>Quantity: 1
 
 ![https://stackskills.com/courses/enrolled](../images/stackskills2.png)
+
+
+</br>
+
+
+</br>
+
+
+</br>
+
 
 # DevOps + Systems Deployment :
 ##### LetsEncrypt SSL Certificates for Synology :
@@ -109,6 +172,16 @@ published: true
 * [Reddit - LetsEncrypt Synology](https://www.reddit.com/r/synology/comments/3vdjgq/lets_encrypt_certs_work_great_on_synology_units/)
 * [DIY - LetsEncrypt on Synology](http://deepplaya.com/w7pea/2016/01/adding-letsencrypt-org-ssl-to-your-synology-nas/)
 * [DSM 6 - LetsEncrypt](http://www.stefandingemanse.nl/how-to-use-lets-encrypt-ssl-certificate-on-synology-dsm/)
+
+
+</br>
+
+
+</br>
+
+
+</br>
+
 
 # Music
 * [ChristianRock.net - stream urls](http://christianrock.net/listen.asp#)
