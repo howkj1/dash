@@ -5,8 +5,8 @@
     <description>My Solarized digital notes</description>
     <link>http://dash.jimhowk.com/</link>
     <atom:link href="http://dash.jimhowk.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 02 Apr 2016 01:44:32 -0500</pubDate>
-    <lastBuildDate>Sat, 02 Apr 2016 01:44:32 -0500</lastBuildDate>
+    <pubDate>Sat, 02 Apr 2016 01:47:06 -0500</pubDate>
+    <lastBuildDate>Sat, 02 Apr 2016 01:47:06 -0500</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -20,10 +20,6 @@
 &lt;ul&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;http://macdown.uranusjr.com/&quot;&gt;MacDown : markdown editor&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://github.com/howkj1/solar-theme-jekyll.git&quot;&gt;solar theme for jekyll&lt;/a&gt;
-&lt;img src=&quot;https://camo.githubusercontent.com/6f968e8ecb93a5f49e5408fdba6770a18b68f851/687474703a2f2f692e696d6775722e636f6d2f556e6e52686b742e706e67&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://stackoverflow.com/questions/17271319/installing-pip-on-mac-os-x&quot;&gt;install pip on mac&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://jekyll-windows.juthilo.com/3-syntax-highlighting/&quot;&gt;installing pygments for jekyll&lt;/a&gt;&lt;/li&gt;
