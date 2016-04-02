@@ -1,6 +1,6 @@
 name: Solar Dash
 url: http://dash.jimhowk.com
-description: My Solarized digital notes
+description: My Solarized Digital Notes
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
