@@ -164,7 +164,7 @@ $31.50 via stacksocial
 
 * [StackSkills - howkj1](https://stackskills.com/courses/enrolled)
 
-![https://stackskills.com/courses/enrolled](/images/stackskills-howkj1.png)
+![https://stackskills.com/courses/enrolled](/images/StackSkills-howkj1.png)
 
 <br />
 
@@ -176,7 +176,7 @@ $31.50 via stacksocial
 >FREE -
 >Quantity: 1
 
-![https://stackskills.com/courses/enrolled](/images/stackskills-TW.png)
+![https://stackskills.com/courses/enrolled](/images/StackSkills-TW.png)
 
 
 <br />
