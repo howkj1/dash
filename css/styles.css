@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  background-color: brown;
+  min-height: 1000px;
+}
+
+body section.sidebar {
+     width: 250px;
+     position: relative;
+     top: 0;
+     bottom: 0;
+     background-image: url(../images/irongrip.png);
+     color : white;
+     padding-left: 25px;
+     float: left;
+     display: block;
+     height: 1000px;
+   }
+
+section.main {
+     //margin-left: 250px;
+     padding-left: 50px;
+     color : white;
+     background-color: grey;
+     position: relative;
+     display: block;
+     float: left;
+   }
+
+   .thing {
+     height: 100px;
+     width: 100%;
+     margin: 50px;
+     display: block;
+     float: left;
+     position: relative;
+   }

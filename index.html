@@ -7,6 +7,7 @@ title: Solar Dash
 
 	<article class="post">
 
+<<<<<<< HEAD
 		{% if post.external-url %}
 			<h1>
 				<a href="{{ post.external-url }}">{{ post.title }}</a>
@@ -15,6 +16,9 @@ title: Solar Dash
 		{% else %}
 			<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
 		{% endif %}
+=======
+  <link rel="stylesheet" href="css/styles.css?v=3.0">
+>>>>>>> 0f062adf40114a4415e12e2504e354b0c9d46db6
 
 		<div class="post-content">{{ post.content }}</div>
 
@@ -22,11 +26,21 @@ title: Solar Dash
 
 {% endfor %}
 
+<<<<<<< HEAD
+=======
+  <section class="sidebar">
+    <div>
+      <input type="checkbox" name="vehicle" value="Bike"> I have a bike<br>
+      <input type="checkbox" name="vehicle" value="Bike"> I have a bike<br>
+      <input type="checkbox" name="vehicle" value="Bike"> I have a bike<br>
+    </div>
+>>>>>>> 0f062adf40114a4415e12e2504e354b0c9d46db6
 
 
 {% if paginator.total_pages > 1 %}
 	<div class="postnavigation">
 
+<<<<<<< HEAD
 		{% if paginator.previous_page %}
 			{% if paginator.page == 2 %}
 				<a class="prev left" href="/">&larr; Newer</a>
@@ -47,3 +61,31 @@ title: Solar Dash
 
 	</div>
 {% endif %}
+=======
+
+    <ul>
+      <li>Coffee</li>
+      <li>Tea</li>
+      <li>Milk</li>
+    </ul>
+
+  </section>
+
+
+  <section class="main">
+    <div class="thing">
+      I'm the main section.
+      </br>
+      I like to do stuffs
+    </div>
+    <div class="thing"></div>
+    <div class="thing"></div>
+  <div class="thing"></div>
+  <div class="thing"></div>
+  </section>
+
+
+<!--  <script src="js/scripts.js"></script> -->
+</body>
+</html>
+>>>>>>> 0f062adf40114a4415e12e2504e354b0c9d46db6
