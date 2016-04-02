@@ -5,33 +5,142 @@
     <description>My Solarized digital notes</description>
     <link>http://dash.jimhowk.com/</link>
     <atom:link href="http://dash.jimhowk.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 02 Apr 2016 01:47:06 -0500</pubDate>
-    <lastBuildDate>Sat, 02 Apr 2016 01:47:06 -0500</lastBuildDate>
+    <pubDate>Sat, 02 Apr 2016 03:18:57 -0500</pubDate>
+    <lastBuildDate>Sat, 02 Apr 2016 03:18:57 -0500</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
         <title>TW Unicorn Training Notes</title>
-        <description>&lt;p&gt;#Tireless Wake Unicorn Training Notes&lt;/p&gt;
+        <description>&lt;h1 id=&quot;tireless-wake-unicorn-training-system&quot;&gt;Tireless Wake Unicorn Training System&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;../images/discoverJim.png&quot; alt=&quot;Discover Jim&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Edit Content Below This Line&lt;/p&gt;
+&lt;!-- Do Not Edit Content Above This Line --&gt;
 
 &lt;hr /&gt;
+
+&lt;!-- Edit Content Below This Line --&gt;
+
+&lt;h1 id=&quot;getting-started-&quot;&gt;Getting Started :&lt;/h1&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://macdown.uranusjr.com/&quot;&gt;MacDown : markdown editor&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://stackoverflow.com/questions/17271319/installing-pip-on-mac-os-x&quot;&gt;install pip on mac&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://jekyll-windows.juthilo.com/3-syntax-highlighting/&quot;&gt;installing pygments for jekyll&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mail.google.com/mail/u/0/#inbox&quot;&gt;Gmail&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://calendar.google.com/calendar/render#main_7&quot;&gt;Google Calendar&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://trello.com/b/pFZToIwz/tireless-wake&quot;&gt;TW Trello Board&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/joshmccall&quot;&gt;Twitter - Josh McCall&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/howkj1&quot;&gt;Twitter - Jim Howk&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.packtpub.com/packt/offers/free-learning&quot;&gt;PacktPub - Free eBook of the Day&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.packtpub.com/account/my-ebooks&quot;&gt;PacktPub - TW Library&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mail.tirelesswake.com&quot;&gt;TW email&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;python -m pip install Pygments&lt;/code&gt;&lt;/p&gt;
+&lt;h1 id=&quot;user-groups--meetups-&quot;&gt;User Groups + Meetups :&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://devopsdsm.com/&quot;&gt;DevOps Des Moines&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://dsmjs.com&quot;&gt;Des Moines JavaScript User Group&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;&quot;&gt;Amazon AWS User Group - Des Moines,IA&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;&quot;&gt;Atlassian User Group - Des Moines, IA&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;hr /&gt;
+&lt;h1 id=&quot;game-development-&quot;&gt;Game Development :&lt;/h1&gt;
+&lt;p&gt;##### Regional Activities : 
+* &lt;a href=&quot;http://www.amusementauctions.com/&quot;&gt;Arcade Auction - Iowa&lt;/a&gt;
+* &lt;a href=&quot;http://www.johnsarcade.com/&quot;&gt;John’s Arcade&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;this one works »&amp;gt;
-&lt;code class=&quot;highlighter-rouge&quot;&gt;gem install pygments.rb&lt;/code&gt;
-&lt;code class=&quot;highlighter-rouge&quot;&gt;gem install jekyll-paginate&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.johnsarcade.com/forum/index.php?topic=821.15&quot;&gt;John’s Arcade - Craigslist Search&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;PINS AND VIDS:
+&lt;code class=&quot;highlighter-rouge&quot;&gt;((pin ball)|(coin operated)|(upright game)|(standup game)|(coin game)|coin-op|(coin op)|(quarters game)|coinop|pinbal|pinabll|pinnball|arkade|acade|acrade|arcade|pinball|aracade)&lt;/code&gt;&lt;/p&gt;
+
+  &lt;p&gt;To use this in SearchTempest.com do the following after you put in your zip code and the above search term:
+Press “Direct Results Mode” then “Open Results Window”&lt;/p&gt;
+
+  &lt;p&gt;Video Game Only:
+&lt;code class=&quot;highlighter-rouge&quot;&gt;((takes quarters)|(coin operated)|(upright game)|(standup game)|(coin game)|coin-op|(coin op)|(quarters game)|coinop|neogeo|neo-geo|(neo geo)|arkade|acade|acrade|arcade|aracade)&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h5 id=&quot;tools-&quot;&gt;Tools :&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://aws.amazon.com/lumberyard/&quot;&gt;Amazon Lumberyard&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.unrealengine.com/&quot;&gt;Unreal Engine&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.scirra.com/construct2&quot;&gt;Construct2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gamesalad.com/&quot;&gt;GameSalad&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://atom.io/&quot;&gt;Atom - Editor&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;unity-&quot;&gt;Unity :&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://unity3d.com/&quot;&gt;Unity3d - Engine&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://unity3d.com/learn&quot;&gt;Unity3d - Tutorials&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://certification.unity.com/&quot;&gt;Unity3d - Get Certified!&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;learning-academy-&quot;&gt;Learning Academy :&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.udemy.com/home/my-courses/learning/?ref=nav&quot;&gt;Udemy - TW - courses&lt;/a&gt;
+&lt;img src=&quot;../images/udemy1.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.udemy.com/learn-3d-modeling-in-blender-in-1-hour/learn/v4/content&quot;&gt;Udemy - TW - learn blender in an hour&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.kickstarter.com/projects/1555758454/learn-game-development-by-building-100-games&quot;&gt;Mammoth Kickstarter - Learn to Build 100 Games!&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;cool-sites--projects&quot;&gt;Cool Sites + Projects:&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://matchola.itch.io/battlesuntold&quot;&gt;The Battles Untold - cool pixel art game&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/RetroPie?page=1&quot;&gt;RetroPie - Raspberry Pi Emulation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;software-development-&quot;&gt;Software Development :&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/howkj1?tab=repositories&quot;&gt;GitHub - howkj1 - repositories&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developer.apple.com/xcode/download/&quot;&gt;Download Xcode for free&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://stackoverflow.com/questions/17126938/how-to-transfer-xcode-installations-between-macs&quot;&gt;How to transfer xcode installations between macs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;web-development-&quot;&gt;Web Development :&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://dash.jimhowk.com/&quot;&gt;This Page!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/howkj1/dash&quot;&gt;Github Repo - This Page!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://macdown.uranusjr.com/&quot;&gt;MacDown : markdown editor&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.freecodecamp.com/challenges/use-a-css-class-to-style-an-element&quot;&gt;Free Code Camp&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gist.github.com/jojobyte/1626835&quot;&gt;Generate Scanlines via JS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;learning-academy--1&quot;&gt;Learning Academy :&lt;/h3&gt;
+
+&lt;p&gt;####* &lt;a href=&quot;https://stackskills.com/courses/enrolled&quot;&gt;StackSkills - howkj1&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/stackskills1.png&quot; alt=&quot;https://stackskills.com/courses/enrolled&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;####* &lt;a href=&quot;https://stackskills.com/courses/enrolled&quot;&gt;StackSkills - TW&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/stackskills2.png&quot; alt=&quot;https://stackskills.com/courses/enrolled&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;devops--systems-deployment-&quot;&gt;DevOps + Systems Deployment :&lt;/h1&gt;
+&lt;p&gt;##### LetsEncrypt SSL Certificates for Synology :
+* &lt;a href=&quot;https://www.google.com/webhp?sourceid=chrome-instant&amp;amp;ion=1&amp;amp;espv=2&amp;amp;ie=UTF-8#q=synology%20letsencrypt&quot;&gt;Google Search - LetsEncrypt Synology&lt;/a&gt;
+* &lt;a href=&quot;https://www.reddit.com/r/synology/comments/3vdjgq/lets_encrypt_certs_work_great_on_synology_units/&quot;&gt;Reddit - LetsEncrypt Synology&lt;/a&gt;
+* &lt;a href=&quot;http://deepplaya.com/w7pea/2016/01/adding-letsencrypt-org-ssl-to-your-synology-nas/&quot;&gt;DIY - LetsEncrypt on Synology&lt;/a&gt;
+* &lt;a href=&quot;http://www.stefandingemanse.nl/how-to-use-lets-encrypt-ssl-certificate-on-synology-dsm/&quot;&gt;DSM 6 - LetsEncrypt&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;music&quot;&gt;Music&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://christianrock.net/listen.asp#&quot;&gt;ChristianRock.net - stream urls&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;tripointaudio.com&quot;&gt;Electronics Repair Shop - Des Moines,IA&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.guitarcenter.com/&quot;&gt;Guitar Center&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;line6&quot;&gt;Line6&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://line6.com/service/&quot;&gt;Line6 service and repair info&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://line6.com/find/service_center/&quot;&gt;Line6 service center + repair shop locator&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.fullcompass.com/prod/258570-Line-6-24-09-0129&quot;&gt;DT25 amp replacement low volume switch&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://line6.com/warranty/&quot;&gt;Line6 Warranty&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 </description>
         <pubDate>Fri, 01 Apr 2016 20:00:00 -0500</pubDate>
         <link>http://dash.jimhowk.com/2016/04/01/TW-Unicorn-Plan/</link>

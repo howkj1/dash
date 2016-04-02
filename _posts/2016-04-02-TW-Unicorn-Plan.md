@@ -7,22 +7,123 @@ published: true
 ---
 
 
-#Tireless Wake Unicorn Training Notes
+# Tireless Wake Unicorn Training System
+![Discover Jim](../images/discoverJim.png)
 
-
- Edit Content Below This Line
+<!-- Do Not Edit Content Above This Line -->
 
 -------
 
+<!-- Edit Content Below This Line -->
+
+# Getting Started :
+
+* [Gmail](https://mail.google.com/mail/u/0/#inbox)
+* [Google Calendar](https://calendar.google.com/calendar/render#main_7)
+* [TW Trello Board](https://trello.com/b/pFZToIwz/tireless-wake)
+* [Twitter - Josh McCall](https://twitter.com/joshmccall)
+* [Twitter - Jim Howk](https://twitter.com/howkj1)
+* [PacktPub - Free eBook of the Day](https://www.packtpub.com/packt/offers/free-learning)
+* [PacktPub - TW Library](https://www.packtpub.com/account/my-ebooks)
+* [TW email](https://mail.tirelesswake.com)
+
+
+
+# User Groups + Meetups :
+* [DevOps Des Moines](http://devopsdsm.com/)
+* [Des Moines JavaScript User Group](http://dsmjs.com)
+* [Amazon AWS User Group - Des Moines,IA]()
+* [Atlassian User Group - Des Moines, IA]()
+
+
+
+# Game Development :
+##### Regional Activities : 
+* [Arcade Auction - Iowa](http://www.amusementauctions.com/)
+* [John's Arcade](http://www.johnsarcade.com/)
+
+* [John's Arcade - Craigslist Search](http://www.johnsarcade.com/forum/index.php?topic=821.15)
+
+> PINS AND VIDS:
+> `((pin ball)|(coin operated)|(upright game)|(standup game)|(coin game)|coin-op|(coin op)|(quarters game)|coinop|pinbal|pinabll|pinnball|arkade|acade|acrade|arcade|pinball|aracade)`
+> 
+> To use this in SearchTempest.com do the following after you put in your zip code and the above search term:
+> Press "Direct Results Mode" then "Open Results Window"
+> 
+> Video Game Only:
+> `((takes quarters)|(coin operated)|(upright game)|(standup game)|(coin game)|coin-op|(coin op)|(quarters game)|coinop|neogeo|neo-geo|(neo geo)|arkade|acade|acrade|arcade|aracade)`
+
+
+##### Tools : 
+
+* [Amazon Lumberyard](https://aws.amazon.com/lumberyard/)
+* [Unreal Engine](https://www.unrealengine.com/)
+* [Construct2](https://www.scirra.com/construct2)
+* [GameSalad](https://gamesalad.com/)
+* [Atom - Editor](https://atom.io/)
+
+##### Unity : 
+* [Unity3d - Engine](http://unity3d.com/)
+* [Unity3d - Tutorials](http://unity3d.com/learn)
+* [Unity3d - Get Certified!](https://certification.unity.com/)
+
+
+
+### Learning Academy : 
+* [Udemy - TW - courses](https://www.udemy.com/home/my-courses/learning/?ref=nav)
+![](../images/udemy1.png)
+* [Udemy - TW - learn blender in an hour](https://www.udemy.com/learn-3d-modeling-in-blender-in-1-hour/learn/v4/content)
+* [Mammoth Kickstarter - Learn to Build 100 Games!](https://www.kickstarter.com/projects/1555758454/learn-game-development-by-building-100-games)
+
+
+#### Cool Sites + Projects:
+* [The Battles Untold - cool pixel art game](https://matchola.itch.io/battlesuntold)
+* [RetroPie - Raspberry Pi Emulation](https://github.com/RetroPie?page=1)
+
+# Software Development : 
+
+* [GitHub - howkj1 - repositories](https://github.com/howkj1?tab=repositories)
+* [Download Xcode for free](https://developer.apple.com/xcode/download/)
+* [How to transfer xcode installations between macs](http://stackoverflow.com/questions/17126938/how-to-transfer-xcode-installations-between-macs)
+
+# Web Development : 
+* [This Page!](http://dash.jimhowk.com/)
+* [Github Repo - This Page!](https://github.com/howkj1/dash)
 * [MacDown : markdown editor](http://macdown.uranusjr.com/)
+* [Free Code Camp](http://www.freecodecamp.com/challenges/use-a-css-class-to-style-an-element)
+* [Generate Scanlines via JS](https://gist.github.com/jojobyte/1626835)
 
-* [install pip on mac](http://stackoverflow.com/questions/17271319/installing-pip-on-mac-os-x)
-* [installing pygments for jekyll](http://jekyll-windows.juthilo.com/3-syntax-highlighting/)
+### Learning Academy : 
 
-`python -m pip install Pygments`
+####* [StackSkills - howkj1](https://stackskills.com/courses/enrolled)
 
------
+![https://stackskills.com/courses/enrolled](../images/stackskills1.png)
 
-this one works >>>
-`gem install pygments.rb`
-`gem install jekyll-paginate`
+####* [StackSkills - TW](https://stackskills.com/courses/enrolled)
+
+![https://stackskills.com/courses/enrolled](../images/stackskills2.png)
+
+# DevOps + Systems Deployment :
+##### LetsEncrypt SSL Certificates for Synology :
+* [Google Search - LetsEncrypt Synology](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=synology%20letsencrypt)
+* [Reddit - LetsEncrypt Synology](https://www.reddit.com/r/synology/comments/3vdjgq/lets_encrypt_certs_work_great_on_synology_units/)
+* [DIY - LetsEncrypt on Synology](http://deepplaya.com/w7pea/2016/01/adding-letsencrypt-org-ssl-to-your-synology-nas/)
+* [DSM 6 - LetsEncrypt](http://www.stefandingemanse.nl/how-to-use-lets-encrypt-ssl-certificate-on-synology-dsm/)
+
+# Music
+* [ChristianRock.net - stream urls](http://christianrock.net/listen.asp#)
+* [Electronics Repair Shop - Des Moines,IA](tripointaudio.com)
+* [Guitar Center](http://www.guitarcenter.com/)
+
+##### Line6
+* [Line6 service and repair info](http://line6.com/service/)
+* [Line6 service center + repair shop locator](http://line6.com/find/service_center/)
+* [DT25 amp replacement low volume switch](http://www.fullcompass.com/prod/258570-Line-6-24-09-0129)
+* [Line6 Warranty](http://line6.com/warranty/)
+
+
+
+
+
+
+
