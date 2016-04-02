@@ -46,3 +46,6 @@ Note:
 Jekyll 3 deprecates "pygments" and uses/suggests "rouge" instead.
 
 [Jekyll 3 support is changing May 1, 2016](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0)
+
+* use kramdown, rouge, and xhtml tags after May 1, 2016
+[kramdown xhtml syntax](http://kramdown.gettalong.org/syntax.html)
