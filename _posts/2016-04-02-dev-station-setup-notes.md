@@ -1,4 +1,13 @@
-#Dev Setup Notes 
+---
+layout: post
+title:  "Dev Station Setup Notes"
+date:   2016-04-02 00:00:00
+categories: jekyll update
+published: true
+---
+
+
+#Dev Station Setup Notes 
  
 * [MacDown : markdown editor](http://macdown.uranusjr.com/)
  
