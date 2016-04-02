@@ -152,16 +152,26 @@ $31.50 via stacksocial
 
 ### Learning Academy :
 
-#### * [Mammoth Interactive - howkj1](http://training.mammothinteractive.com/)
+* [Mammoth Interactive - howkj1](http://training.mammothinteractive.com/)
+
 
 ![http://training.mammothinteractive.com/](/images/MammothInteractive1.png)
 ![http://training.mammothinteractive.com/](/images/MammothInteractive2.png)
 
-####* [StackSkills - howkj1](https://stackskills.com/courses/enrolled)
+<br />
+
+<br />
+
+* [StackSkills - howkj1](https://stackskills.com/courses/enrolled)
 
 ![https://stackskills.com/courses/enrolled](/images/stackskills-howkj1.png)
 
-####* [StackSkills - TW](https://stackskills.com/courses/enrolled)
+<br />
+
+<br />
+
+* [StackSkills - TW](https://stackskills.com/courses/enrolled)
+
 >Free: Zenva 'Programming for Entrepreneurs' JavaScript Course -
 >FREE -
 >Quantity: 1
