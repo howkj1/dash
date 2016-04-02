@@ -5,6 +5,7 @@ description: My Solarized Digital Notes
 permalink: /:year/:month/:day/:title/
 paginate: 10
 highlighter: rouge
+markdown: redcarpet
 
 gems: [jekyll-paginate]
 
