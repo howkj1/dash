@@ -8,7 +8,7 @@ published: true
 
 
 # Tireless Wake Unicorn Training System
-![Discover Jim](../images/discoverJim.png)
+![Discover Jim](/images/discoverJim.png)
 
 <!-- Do Not Edit Content Above This Line -->
 
@@ -58,7 +58,7 @@ published: true
 
 
 # Game Development :
-##### Regional Activities : 
+##### Regional Activities :
 * [Arcade Auction - Iowa](http://www.amusementauctions.com/)
 * [John's Arcade](http://www.johnsarcade.com/)
 
@@ -66,15 +66,15 @@ published: true
 
 > PINS AND VIDS:
 > `((pin ball)|(coin operated)|(upright game)|(standup game)|(coin game)|coin-op|(coin op)|(quarters game)|coinop|pinbal|pinabll|pinnball|arkade|acade|acrade|arcade|pinball|aracade)`
-> 
+>
 > To use this in SearchTempest.com do the following after you put in your zip code and the above search term:
 > Press "Direct Results Mode" then "Open Results Window"
-> 
+>
 > Video Game Only:
 > `((takes quarters)|(coin operated)|(upright game)|(standup game)|(coin game)|coin-op|(coin op)|(quarters game)|coinop|neogeo|neo-geo|(neo geo)|arkade|acade|acrade|arcade|aracade)`
 
 
-##### Tools : 
+##### Tools :
 
 * [Amazon Lumberyard](https://aws.amazon.com/lumberyard/)
 * [Unreal Engine](https://www.unrealengine.com/)
@@ -82,14 +82,14 @@ published: true
 * [GameSalad](https://gamesalad.com/)
 * [Atom - Editor](https://atom.io/)
 
-##### Unity : 
+##### Unity :
 * [Unity3d - Engine](http://unity3d.com/)
 * [Unity3d - Tutorials](http://unity3d.com/learn)
 * [Unity3d - Get Certified!](https://certification.unity.com/)
 
 
 
-### Learning Academy : 
+### Learning Academy :
 * [Udemy - TW - courses](https://www.udemy.com/home/my-courses/learning/?ref=nav)
 
 > * Learn To Code By Making Games - Unity 5 Developer Course
@@ -115,7 +115,7 @@ $31.50 via stacksocial
 </br>
 
 
-# Software Development : 
+# Software Development :
 
 * [GitHub - howkj1 - repositories](https://github.com/howkj1?tab=repositories)
 * [Download Xcode for free](https://developer.apple.com/xcode/download/)
@@ -131,19 +131,19 @@ $31.50 via stacksocial
 </br>
 
 
-# Web Development : 
+# Web Development :
 * [This Page!](http://dash.jimhowk.com/)
 * [Github Repo - This Page!](https://github.com/howkj1/dash)
 * [MacDown : markdown editor](http://macdown.uranusjr.com/)
 * [Free Code Camp](http://www.freecodecamp.com/challenges/use-a-css-class-to-style-an-element)
 * [Generate Scanlines via JS](https://gist.github.com/jojobyte/1626835)
 
-### Learning Academy : 
+### Learning Academy :
 
 ####* [Mammoth Interactive - howkj1](http://training.mammothinteractive.com/)
 
-![http://training.mammothinteractive.com/](../images/MammothInteractive1.png)
-![http://training.mammothinteractive.com/](../images/MammothInteractive2.png)
+![http://training.mammothinteractive.com/](/images/MammothInteractive1.png)
+![http://training.mammothinteractive.com/](/images/MammothInteractive2.png)
 
 ####* [StackSkills - howkj1](https://stackskills.com/courses/enrolled)
 
@@ -154,7 +154,7 @@ $31.50 via stacksocial
 >FREE -
 >Quantity: 1
 
-![https://stackskills.com/courses/enrolled](../images/stackskills2.png)
+![https://stackskills.com/courses/enrolled](/images/stackskills2.png)
 
 
 </br>
@@ -193,10 +193,3 @@ $31.50 via stacksocial
 * [Line6 service center + repair shop locator](http://line6.com/find/service_center/)
 * [DT25 amp replacement low volume switch](http://www.fullcompass.com/prod/258570-Line-6-24-09-0129)
 * [Line6 Warranty](http://line6.com/warranty/)
-
-
-
-
-
-
-
