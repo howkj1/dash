@@ -49,3 +49,5 @@ Jekyll 3 deprecates "pygments" and uses/suggests "rouge" instead.
 
 * use kramdown, rouge, and xhtml tags after May 1, 2016
 [kramdown xhtml syntax](http://kramdown.gettalong.org/syntax.html)
+
+* sudo gem install kramdown

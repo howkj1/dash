@@ -58,6 +58,7 @@ published: true
 
 
 # Game Development :
+
 ##### Regional Activities :
 * [Arcade Auction - Iowa](http://www.amusementauctions.com/)
 * [John's Arcade](http://www.johnsarcade.com/)
@@ -65,13 +66,15 @@ published: true
 * [John's Arcade - Craigslist Search](http://www.johnsarcade.com/forum/index.php?topic=821.15)
 
 > PINS AND VIDS:
-> `((pin ball)|(coin operated)|(upright game)|(standup game)|(coin game)|coin-op|(coin op)|(quarters game)|coinop|pinbal|pinabll|pinnball|arkade|acade|acrade|arcade|pinball|aracade)`
->
+
+     ((pin ball)|(coin operated)|(upright game)|(standup game)|(coin game)|coin-op|(coin op)|(quarters game)|coinop|pinbal|pinabll|pinnball|arkade|acade|acrade|arcade|pinball|aracade)
+
 > To use this in SearchTempest.com do the following after you put in your zip code and the above search term:
 > Press "Direct Results Mode" then "Open Results Window"
 >
 > Video Game Only:
-> `((takes quarters)|(coin operated)|(upright game)|(standup game)|(coin game)|coin-op|(coin op)|(quarters game)|coinop|neogeo|neo-geo|(neo geo)|arkade|acade|acrade|arcade|aracade)`
+
+       ((takes quarters)|(coin operated)|(upright game)|(standup game)|(coin game)|coin-op|(coin op)|(quarters game)|coinop|neogeo|neo-geo|(neo geo)|arkade|acade|acrade|arcade|aracade)
 
 
 ##### Tools :
@@ -90,13 +93,22 @@ published: true
 
 
 ### Learning Academy :
+
+* [Zenva](https://www.youtube.com/user/fariazz2)
+* [Zenva - phaser](https://gamedevacademy.org/phaser-beginners-tutorial-working-with-sprites/)
+>  Zenva - TW
+* [Zenva - space exploration](https://gamedevacademy.org/html5-phaser-tutorial-spacehipster-a-space-exploration-game/)
+* [Zenva - top down phaser](https://gamedevacademy.org/html5-phaser-tutorial-top-down-games-with-tiled/)
+
 * [Udemy - TW - courses](https://www.udemy.com/home/my-courses/learning/?ref=nav)
 
 > * Learn To Code By Making Games - Unity 5 Developer Course
 $31.50 via stacksocial
 
 ![](/images/udemy1.png)
+
 * [Udemy - TW - learn blender in an hour](https://www.udemy.com/learn-3d-modeling-in-blender-in-1-hour/learn/v4/content)
+
 * [Mammoth Kickstarter - Learn to Build 100 Games!](https://www.kickstarter.com/projects/1555758454/learn-game-development-by-building-100-games)
 
 
@@ -157,7 +169,7 @@ $31.50 via stacksocial
 ![https://stackskills.com/courses/enrolled](/images/stackskills2.png)
 
 
-<br /> 
+<br />
 
 
 <br />
