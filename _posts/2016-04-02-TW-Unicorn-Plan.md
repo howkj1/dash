@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "TW Unicorn Training Notes"
-date:   2016-04-02 00:00:00
+date:   2016-04-02 01:00:00
 categories: jekyll update
 published: true
 ---

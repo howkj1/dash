@@ -5,9 +5,48 @@
     <description>My Solarized digital notes</description>
     <link>http://dash.jimhowk.com/</link>
     <atom:link href="http://dash.jimhowk.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 02 Apr 2016 01:37:10 -0500</pubDate>
-    <lastBuildDate>Sat, 02 Apr 2016 01:37:10 -0500</lastBuildDate>
+    <pubDate>Sat, 02 Apr 2016 01:44:32 -0500</pubDate>
+    <lastBuildDate>Sat, 02 Apr 2016 01:44:32 -0500</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>TW Unicorn Training Notes</title>
+        <description>&lt;p&gt;#Tireless Wake Unicorn Training Notes&lt;/p&gt;
+
+&lt;p&gt;Edit Content Below This Line&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://macdown.uranusjr.com/&quot;&gt;MacDown : markdown editor&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/howkj1/solar-theme-jekyll.git&quot;&gt;solar theme for jekyll&lt;/a&gt;
+&lt;img src=&quot;https://camo.githubusercontent.com/6f968e8ecb93a5f49e5408fdba6770a18b68f851/687474703a2f2f692e696d6775722e636f6d2f556e6e52686b742e706e67&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://stackoverflow.com/questions/17271319/installing-pip-on-mac-os-x&quot;&gt;install pip on mac&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://jekyll-windows.juthilo.com/3-syntax-highlighting/&quot;&gt;installing pygments for jekyll&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;python -m pip install Pygments&lt;/code&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;this one works »&amp;gt;
+&lt;code class=&quot;highlighter-rouge&quot;&gt;gem install pygments.rb&lt;/code&gt;
+&lt;code class=&quot;highlighter-rouge&quot;&gt;gem install jekyll-paginate&lt;/code&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 01 Apr 2016 20:00:00 -0500</pubDate>
+        <link>http://dash.jimhowk.com/2016/04/01/TW-Unicorn-Plan/</link>
+        <guid isPermaLink="true">http://dash.jimhowk.com/2016/04/01/TW-Unicorn-Plan/</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>Dev Station Setup Notes</title>
@@ -57,45 +96,6 @@ Jekyll 3 deprecates “pygments” and uses/suggests “rouge” instead.&lt;/p&
         <pubDate>Fri, 01 Apr 2016 19:00:00 -0500</pubDate>
         <link>http://dash.jimhowk.com/2016/04/01/dev-station-setup-notes/</link>
         <guid isPermaLink="true">http://dash.jimhowk.com/2016/04/01/dev-station-setup-notes/</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>TW Unicorn Training Notes</title>
-        <description>&lt;p&gt;#Tireless Wake Unicorn Training Notes&lt;/p&gt;
-
-&lt;p&gt;Edit Content Below This Line&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://macdown.uranusjr.com/&quot;&gt;MacDown : markdown editor&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://github.com/howkj1/solar-theme-jekyll.git&quot;&gt;solar theme for jekyll&lt;/a&gt;
-&lt;img src=&quot;https://camo.githubusercontent.com/6f968e8ecb93a5f49e5408fdba6770a18b68f851/687474703a2f2f692e696d6775722e636f6d2f556e6e52686b742e706e67&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://stackoverflow.com/questions/17271319/installing-pip-on-mac-os-x&quot;&gt;install pip on mac&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://jekyll-windows.juthilo.com/3-syntax-highlighting/&quot;&gt;installing pygments for jekyll&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;python -m pip install Pygments&lt;/code&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;this one works »&amp;gt;
-&lt;code class=&quot;highlighter-rouge&quot;&gt;gem install pygments.rb&lt;/code&gt;
-&lt;code class=&quot;highlighter-rouge&quot;&gt;gem install jekyll-paginate&lt;/code&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 01 Apr 2016 19:00:00 -0500</pubDate>
-        <link>http://dash.jimhowk.com/2016/04/01/TW-Unicorn-Plan/</link>
-        <guid isPermaLink="true">http://dash.jimhowk.com/2016/04/01/TW-Unicorn-Plan/</guid>
         
         
         <category>jekyll</category>
