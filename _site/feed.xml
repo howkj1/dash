@@ -5,8 +5,8 @@
     <description>My Solarized Digital Notes</description>
     <link>http://dash.jimhowk.com/</link>
     <atom:link href="http://dash.jimhowk.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 02 Apr 2016 04:56:19 -0500</pubDate>
-    <lastBuildDate>Sat, 02 Apr 2016 04:56:19 -0500</lastBuildDate>
+    <pubDate>Sat, 02 Apr 2016 04:57:04 -0500</pubDate>
+    <lastBuildDate>Sat, 02 Apr 2016 04:57:04 -0500</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -210,11 +210,15 @@ Quantity: 1&lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;devops--systems-deployment-&quot;&gt;DevOps + Systems Deployment :&lt;/h1&gt;
-&lt;p&gt;##### LetsEncrypt SSL Certificates for Synology :
-* &lt;a href=&quot;https://www.google.com/webhp?sourceid=chrome-instant&amp;amp;ion=1&amp;amp;espv=2&amp;amp;ie=UTF-8#q=synology%20letsencrypt&quot;&gt;Google Search - LetsEncrypt Synology&lt;/a&gt;
-* &lt;a href=&quot;https://www.reddit.com/r/synology/comments/3vdjgq/lets_encrypt_certs_work_great_on_synology_units/&quot;&gt;Reddit - LetsEncrypt Synology&lt;/a&gt;
-* &lt;a href=&quot;http://deepplaya.com/w7pea/2016/01/adding-letsencrypt-org-ssl-to-your-synology-nas/&quot;&gt;DIY - LetsEncrypt on Synology&lt;/a&gt;
-* &lt;a href=&quot;http://www.stefandingemanse.nl/how-to-use-lets-encrypt-ssl-certificate-on-synology-dsm/&quot;&gt;DSM 6 - LetsEncrypt&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;letsencrypt-ssl-certificates-for-synology-&quot;&gt;LetsEncrypt SSL Certificates for Synology :&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.google.com/webhp?sourceid=chrome-instant&amp;amp;ion=1&amp;amp;espv=2&amp;amp;ie=UTF-8#q=synology%20letsencrypt&quot;&gt;Google Search - LetsEncrypt Synology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/synology/comments/3vdjgq/lets_encrypt_certs_work_great_on_synology_units/&quot;&gt;Reddit - LetsEncrypt Synology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://deepplaya.com/w7pea/2016/01/adding-letsencrypt-org-ssl-to-your-synology-nas/&quot;&gt;DIY - LetsEncrypt on Synology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.stefandingemanse.nl/how-to-use-lets-encrypt-ssl-certificate-on-synology-dsm/&quot;&gt;DSM 6 - LetsEncrypt&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 

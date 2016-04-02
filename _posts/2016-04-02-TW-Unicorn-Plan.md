@@ -189,7 +189,9 @@ $31.50 via stacksocial
 
 
 # DevOps + Systems Deployment :
+
 ##### LetsEncrypt SSL Certificates for Synology :
+
 * [Google Search - LetsEncrypt Synology](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=synology%20letsencrypt)
 * [Reddit - LetsEncrypt Synology](https://www.reddit.com/r/synology/comments/3vdjgq/lets_encrypt_certs_work_great_on_synology_units/)
 * [DIY - LetsEncrypt on Synology](http://deepplaya.com/w7pea/2016/01/adding-letsencrypt-org-ssl-to-your-synology-nas/)
