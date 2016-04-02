@@ -5,8 +5,8 @@
     <description>My Solarized digital notes</description>
     <link>http://dash.jimhowk.com/</link>
     <atom:link href="http://dash.jimhowk.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 02 Apr 2016 04:07:07 -0500</pubDate>
-    <lastBuildDate>Sat, 02 Apr 2016 04:07:07 -0500</lastBuildDate>
+    <pubDate>Sat, 02 Apr 2016 04:10:45 -0500</pubDate>
+    <lastBuildDate>Sat, 02 Apr 2016 04:10:45 -0500</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -20,7 +20,7 @@
 
 &lt;!-- Edit Content Below This Line --&gt;
 
-&lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;getting-started-&quot;&gt;Getting Started :&lt;/h1&gt;
 
@@ -35,11 +35,11 @@
   &lt;li&gt;&lt;a href=&quot;https://mail.tirelesswake.com&quot;&gt;TW email&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;user-groups--meetups-&quot;&gt;User Groups + Meetups :&lt;/h1&gt;
 &lt;ul&gt;
@@ -49,11 +49,11 @@
   &lt;li&gt;&lt;a href=&quot;&quot;&gt;Atlassian User Group - Des Moines, IA&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;game-development-&quot;&gt;Game Development :&lt;/h1&gt;
 &lt;p&gt;##### Regional Activities :
@@ -114,11 +114,11 @@ $31.50 via stacksocial&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/RetroPie?page=1&quot;&gt;RetroPie - Raspberry Pi Emulation&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;software-development-&quot;&gt;Software Development :&lt;/h1&gt;
 
@@ -128,11 +128,11 @@ $31.50 via stacksocial&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://stackoverflow.com/questions/17126938/how-to-transfer-xcode-installations-between-macs&quot;&gt;How to transfer xcode installations between macs&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;web-development-&quot;&gt;Web Development :&lt;/h1&gt;
 &lt;ul&gt;
@@ -161,11 +161,11 @@ $31.50 via stacksocial&lt;/li&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/stackskills2.png&quot; alt=&quot;https://stackskills.com/courses/enrolled&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;devops--systems-deployment-&quot;&gt;DevOps + Systems Deployment :&lt;/h1&gt;
 &lt;p&gt;##### LetsEncrypt SSL Certificates for Synology :
@@ -174,11 +174,11 @@ $31.50 via stacksocial&lt;/li&gt;
 * &lt;a href=&quot;http://deepplaya.com/w7pea/2016/01/adding-letsencrypt-org-ssl-to-your-synology-nas/&quot;&gt;DIY - LetsEncrypt on Synology&lt;/a&gt;
 * &lt;a href=&quot;http://www.stefandingemanse.nl/how-to-use-lets-encrypt-ssl-certificate-on-synology-dsm/&quot;&gt;DSM 6 - LetsEncrypt&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;music&quot;&gt;Music&lt;/h1&gt;
 &lt;ul&gt;

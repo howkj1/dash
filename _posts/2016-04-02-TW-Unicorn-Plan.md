@@ -17,7 +17,7 @@ published: true
 <!-- Edit Content Below This Line -->
 
 
-</br>
+<br />
 
 
 
@@ -32,12 +32,12 @@ published: true
 * [PacktPub - TW Library](https://www.packtpub.com/account/my-ebooks)
 * [TW email](https://mail.tirelesswake.com)
 
-</br>
+<br />
 
-</br>
+<br />
 
 
-</br>
+<br />
 
 
 # User Groups + Meetups :
@@ -47,14 +47,14 @@ published: true
 * [Atlassian User Group - Des Moines, IA]()
 
 
-</br>
+<br />
 
 
-</br>
+<br />
 
 
 
-</br>
+<br />
 
 
 # Game Development :
@@ -106,13 +106,13 @@ $31.50 via stacksocial
 * [RetroPie - Raspberry Pi Emulation](https://github.com/RetroPie?page=1)
 
 
-</br>
+<br />
 
 
-</br>
+<br />
 
 
-</br>
+<br />
 
 
 # Software Development :
@@ -122,13 +122,13 @@ $31.50 via stacksocial
 * [How to transfer xcode installations between macs](http://stackoverflow.com/questions/17126938/how-to-transfer-xcode-installations-between-macs)
 
 
-</br>
+<br />
 
 
-</br>
+<br />
 
 
-</br>
+<br />
 
 
 # Web Development :
@@ -157,13 +157,13 @@ $31.50 via stacksocial
 ![https://stackskills.com/courses/enrolled](/images/stackskills2.png)
 
 
-</br>
+<br /> 
 
 
-</br>
+<br />
 
 
-</br>
+<br />
 
 
 # DevOps + Systems Deployment :
@@ -174,13 +174,13 @@ $31.50 via stacksocial
 * [DSM 6 - LetsEncrypt](http://www.stefandingemanse.nl/how-to-use-lets-encrypt-ssl-certificate-on-synology-dsm/)
 
 
-</br>
+<br />
 
 
-</br>
+<br />
 
 
-</br>
+<br />
 
 
 # Music
