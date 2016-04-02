@@ -1,0 +1,11 @@
+name: Solar Dash
+url: http://dash.jimhowk.com
+description: My Solarized digital notes
+
+permalink: /:year/:month/:day/:title/
+paginate: 10
+highlighter: pygments
+
+gems: [jekyll-paginate]
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']

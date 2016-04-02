@@ -1,45 +1,49 @@
-<!doctype html>
+---
+layout: default
+title: Solar Dash
+---
 
-<html lang="en">
-<head>
-  <meta charset="utf-8">
+{% for post in paginator.posts %}
 
-  <title>TW Dashboard</title>
-  <meta name="description" content="HTML5 Dashboard">
-  <meta name="author" content="SitePoint">
+	<article class="post">
 
-  <link rel="stylesheet" href="css/styles.css?v=1.0">
+		{% if post.external-url %}
+			<h1>
+				<a href="{{ post.external-url }}">{{ post.title }}</a>
+				<a class="anchor" href="{{ post.url }}"><i class="icon-anchor"></i></a>
+			</h1>
+		{% else %}
+			<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+		{% endif %}
 
-  <!--[if lt IE 9]>
-  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
-</head>
+		<div class="post-content">{{ post.content }}</div>
 
-<body>
+	</article>
 
-
-  <section class="sidebar">
-
-[ ]  I'm a sidebar </br>
-[ ]  item2 </br>
-[ ]  item3 </br>
-
-
-  </section>
-
-
-  <section class="main">
-
-    I'm the main section.
-    </br>
-    I like to do stuffs
+{% endfor %}
 
 
 
+{% if paginator.total_pages > 1 %}
+	<div class="postnavigation">
 
-  </section>
+		{% if paginator.previous_page %}
+			{% if paginator.page == 2 %}
+				<a class="prev left" href="/">&larr; Newer</a>
+			{% else %}
+				<a class="prev left" href="/page{{paginator.previous_page}}/">&larr; Newer</a>
+			{% endif %}
+		{% else %}
+			<span class="nope left">&larr; Newer</span>
+		{% endif %}
 
+		<span class="pages">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
 
-<!--  <script src="js/scripts.js"></script> -->
-</body>
-</html>
+		{% if paginator.next_page %}
+			<a class="next right" href="/page{{paginator.next_page}}/">Older &rarr;</a>
+		{% else %}
+			<span class="nope right">Older &rarr;</span>
+		{% endif %}
+
+	</div>
+{% endif %}

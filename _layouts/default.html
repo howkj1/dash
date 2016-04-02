@@ -3,7 +3,7 @@
 <head>
 
   <meta charset="UTF-8">
-  <title>Solar Dash</title>
+  <title>{{ page.title }}</title>
   <meta name="viewport" content="width=device-width">
 
   <!--[if lt IE 9]>
@@ -20,8 +20,8 @@
 
 
   <header id="header">
-    <h1><a href="/"><i class="icon-sun"></i> Solar Dash</a></h1>
-    <p>My Solarized digital notes</p>
+    <h1><a href="/"><i class="icon-sun"></i> {{ site.name }}</a></h1>
+    <p>{{ site.description }}</p>
   </header>
 
 
@@ -45,12 +45,7 @@
 
 
     <div id="content">
-      
-
-
-
-
-
+      {{ content }}
     </div>
 
 
@@ -60,7 +55,7 @@
 
 
   <footer id="footer">
-    <p class="copyright">Copyright &copy; 2016 Solar Dash. Powered by <a href="http://jekyllrb.com">Jekyll</a>.</p>
+    <p class="copyright">Copyright &copy; {{ site.time | date: '%Y' }} {{ site.name }}. Powered by <a href="http://jekyllrb.com">Jekyll</a>.</p>
   </footer>
 
 

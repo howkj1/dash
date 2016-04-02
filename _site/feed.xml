@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description>My Solarized digital notes</description>
+    <link>http://dash.jimhowk.com/</link>
+    <atom:link href="http://dash.jimhowk.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 02 Apr 2016 00:56:29 -0500</pubDate>
+    <lastBuildDate>Sat, 02 Apr 2016 00:56:29 -0500</lastBuildDate>
+    <generator>Jekyll v3.1.2</generator>
+    
+  </channel>
+</rss>
