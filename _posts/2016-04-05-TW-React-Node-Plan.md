@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "TW Unicorn Training - React & Node"
-date:   2016-04-05 17:00:00
+date:   2016-04-05 01:00:00
 categories: jekyll react node developer
 published: true
 ---
