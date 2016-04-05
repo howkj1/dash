@@ -152,6 +152,8 @@ $31.50 via stacksocial
 
 ### Learning Academy :
 
+* [hack.summit 2016](https://www.crowdcast.io/e/hacksummit-2016)
+
 * [Mammoth Interactive - howkj1](http://training.mammothinteractive.com/)
 
 
