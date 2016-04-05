@@ -43,8 +43,13 @@ published: true
 # User Groups + Meetups :
 * [DevOps Des Moines](http://devopsdsm.com/)
 * [Des Moines JavaScript User Group](http://dsmjs.com)
-* [Amazon AWS User Group - Des Moines,IA]()
-* [Atlassian User Group - Des Moines, IA]()
+* [Amazon AWS User Group - Des Moines,IA](http://www.meetup.com/AWS-User-Group-Des-Moines/)
+* [Atlassian User Group - Des Moines, IA](http://aug.atlassian.com/cities/desmoinesia)
+* [Iowa City Game Dev User Group](http://www.meetup.com/Iowa-City-Game-Dev-Meetup/)
+* [TechCorridor.io](http://www.meetup.com/techcorridorio/)
+* [Iowa Game Dev Friendship Club](https://www.facebook.com/groups/igdfc/)
+* [Indie Game Developers of Iowa](https://www.facebook.com/iowagamedev/?fref=ts)
+* [Iowa State University Game Development Club](https://www.facebook.com/ISUGameDevClub/?fref=ts)
 
 
 <br />
