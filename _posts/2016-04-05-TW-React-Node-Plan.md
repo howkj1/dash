@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "TW Unicorn Training - React Node"
+title:  "TW Unicorn Training for React and Node"
 date:   2016-04-05 17:00:00
 categories: jekyll react node developer
 published: true
