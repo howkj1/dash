@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "TW Unicorn Training Notes"
-date:   2016-04-02 01:00:00
-categories: jekyll update
+title:  "TW Unicorn Training - React & Node"
+date:   2016-04-05 01:00:00
+categories: jekyll react node developer
 published: true
 ---
 
@@ -62,82 +62,14 @@ published: true
 <br />
 
 
-# Game Development :
-
-##### Regional Activities :
-* [Arcade Auction - Iowa](http://www.amusementauctions.com/)
-* [John's Arcade](http://www.johnsarcade.com/)
-
-* [John's Arcade - Craigslist Search](http://www.johnsarcade.com/forum/index.php?topic=821.15)
-
-> PINS AND VIDS:
-
-     ((pin ball)|(coin operated)|(upright game)|(standup game)|(coin game)|coin-op|(coin op)|(quarters game)|coinop|pinbal|pinabll|pinnball|arkade|acade|acrade|arcade|pinball|aracade)
-
-> To use this in SearchTempest.com do the following after you put in your zip code and the above search term:
-> Press "Direct Results Mode" then "Open Results Window"
->
-> Video Game Only:
-
-       ((takes quarters)|(coin operated)|(upright game)|(standup game)|(coin game)|coin-op|(coin op)|(quarters game)|coinop|neogeo|neo-geo|(neo geo)|arkade|acade|acrade|arcade|aracade)
-
-
-##### Tools :
-
-* [Amazon Lumberyard](https://aws.amazon.com/lumberyard/)
-* [Unreal Engine](https://www.unrealengine.com/)
-* [Construct2](https://www.scirra.com/construct2)
-* [GameSalad](https://gamesalad.com/)
-* [Atom - Editor](https://atom.io/)
-
-##### Unity :
-* [Unity3d - Engine](http://unity3d.com/)
-* [Unity3d - Tutorials](http://unity3d.com/learn)
-* [Unity3d - Get Certified!](https://certification.unity.com/)
-
-
-
-### Learning Academy :
-
-* [Zenva](https://www.youtube.com/user/fariazz2)
-* [Zenva - phaser](https://gamedevacademy.org/phaser-beginners-tutorial-working-with-sprites/)
->  Zenva - TW
-* [Zenva - space exploration](https://gamedevacademy.org/html5-phaser-tutorial-spacehipster-a-space-exploration-game/)
-* [Zenva - top down phaser](https://gamedevacademy.org/html5-phaser-tutorial-top-down-games-with-tiled/)
-
-* [Udemy - TW - courses](https://www.udemy.com/home/my-courses/learning/?ref=nav)
-
-> * Learn To Code By Making Games - Unity 5 Developer Course
-$31.50 via stacksocial
-
-![](/images/udemy1.png)
-
-* [Udemy - TW - learn blender in an hour](https://www.udemy.com/learn-3d-modeling-in-blender-in-1-hour/learn/v4/content)
-
-* [Mammoth Kickstarter - Learn to Build 100 Games!](https://www.kickstarter.com/projects/1555758454/learn-game-development-by-building-100-games)
-
-
-
-#### Cool Sites + Projects:
-* [The Battles Untold - cool pixel art game](https://matchola.itch.io/battlesuntold)
-* [RetroPie - Raspberry Pi Emulation](https://github.com/RetroPie?page=1)
-
-
-<br />
-
-
-<br />
-
-
-<br />
-
 
 # Software Development :
 
+###[Pluralsight - React and Node](https://app.pluralsight.com/library/courses/build-isomorphic-app-react-flux-webpack-firebase/table-of-contents)
+
+
 * [GitHub - howkj1 - repositories](https://github.com/howkj1?tab=repositories)
 * [Download Xcode for free](https://developer.apple.com/xcode/download/)
-* [How to transfer xcode installations between macs](http://stackoverflow.com/questions/17126938/how-to-transfer-xcode-installations-between-macs)
-
 
 <br />
 
@@ -212,15 +144,3 @@ $31.50 via stacksocial
 
 
 <br />
-
-
-# Music
-* [ChristianRock.net - stream urls](http://christianrock.net/listen.asp#)
-* [Electronics Repair Shop - Des Moines,IA](tripointaudio.com)
-* [Guitar Center](http://www.guitarcenter.com/)
-
-##### Line6
-* [Line6 service and repair info](http://line6.com/service/)
-* [Line6 service center + repair shop locator](http://line6.com/find/service_center/)
-* [DT25 amp replacement low volume switch](http://www.fullcompass.com/prod/258570-Line-6-24-09-0129)
-* [Line6 Warranty](http://line6.com/warranty/)

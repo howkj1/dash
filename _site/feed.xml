@@ -5,9 +5,162 @@
     <description>My Solarized Digital Notes</description>
     <link>http://dash.jimhowk.com/</link>
     <atom:link href="http://dash.jimhowk.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 02 Apr 2016 04:57:04 -0500</pubDate>
-    <lastBuildDate>Sat, 02 Apr 2016 04:57:04 -0500</lastBuildDate>
+    <pubDate>Tue, 05 Apr 2016 17:13:38 -0500</pubDate>
+    <lastBuildDate>Tue, 05 Apr 2016 17:13:38 -0500</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>TW Unicorn Training - React &amp; Node</title>
+        <description>&lt;h1 id=&quot;tireless-wake-unicorn-training-system&quot;&gt;Tireless Wake Unicorn Training System&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/images/discoverJim.png&quot; alt=&quot;Discover Jim&quot; /&gt;&lt;/p&gt;
+
+&lt;!-- Do Not Edit Content Above This Line --&gt;
+
+&lt;hr /&gt;
+
+&lt;!-- Edit Content Below This Line --&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;getting-started-&quot;&gt;Getting Started :&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mail.google.com/mail/u/0/#inbox&quot;&gt;Gmail&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://calendar.google.com/calendar/render#main_7&quot;&gt;Google Calendar&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://trello.com/b/pFZToIwz/tireless-wake&quot;&gt;TW Trello Board&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/joshmccall&quot;&gt;Twitter - Josh McCall&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/howkj1&quot;&gt;Twitter - Jim Howk&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.packtpub.com/packt/offers/free-learning&quot;&gt;PacktPub - Free eBook of the Day&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.packtpub.com/account/my-ebooks&quot;&gt;PacktPub - TW Library&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mail.tirelesswake.com&quot;&gt;TW email&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;user-groups--meetups-&quot;&gt;User Groups + Meetups :&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://devopsdsm.com/&quot;&gt;DevOps Des Moines&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://dsmjs.com&quot;&gt;Des Moines JavaScript User Group&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.meetup.com/AWS-User-Group-Des-Moines/&quot;&gt;Amazon AWS User Group - Des Moines,IA&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://aug.atlassian.com/cities/desmoinesia&quot;&gt;Atlassian User Group - Des Moines, IA&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.meetup.com/Iowa-City-Game-Dev-Meetup/&quot;&gt;Iowa City Game Dev User Group&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.meetup.com/techcorridorio/&quot;&gt;TechCorridor.io&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/igdfc/&quot;&gt;Iowa Game Dev Friendship Club&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/iowagamedev/?fref=ts&quot;&gt;Indie Game Developers of Iowa&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/ISUGameDevClub/?fref=ts&quot;&gt;Iowa State University Game Development Club&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;software-development-&quot;&gt;Software Development :&lt;/h1&gt;
+
+&lt;p&gt;###&lt;a href=&quot;https://app.pluralsight.com/library/courses/build-isomorphic-app-react-flux-webpack-firebase/table-of-contents&quot;&gt;Pluralsight - React and Node&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/howkj1?tab=repositories&quot;&gt;GitHub - howkj1 - repositories&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developer.apple.com/xcode/download/&quot;&gt;Download Xcode for free&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;web-development-&quot;&gt;Web Development :&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://dash.jimhowk.com/&quot;&gt;This Page!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/howkj1/dash&quot;&gt;Github Repo - This Page!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://macdown.uranusjr.com/&quot;&gt;MacDown : markdown editor&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.freecodecamp.com/challenges/use-a-css-class-to-style-an-element&quot;&gt;Free Code Camp&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gist.github.com/jojobyte/1626835&quot;&gt;Generate Scanlines via JS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;learning-academy-&quot;&gt;Learning Academy :&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.crowdcast.io/e/hacksummit-2016&quot;&gt;hack.summit 2016&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://training.mammothinteractive.com/&quot;&gt;Mammoth Interactive - howkj1&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/MammothInteractive1.png&quot; alt=&quot;http://training.mammothinteractive.com/&quot; /&gt;
+&lt;img src=&quot;/images/MammothInteractive2.png&quot; alt=&quot;http://training.mammothinteractive.com/&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://stackskills.com/courses/enrolled&quot;&gt;StackSkills - howkj1&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/StackSkills-howkj1.png&quot; alt=&quot;https://stackskills.com/courses/enrolled&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://stackskills.com/courses/enrolled&quot;&gt;StackSkills - TW&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Free: Zenva ‘Programming for Entrepreneurs’ JavaScript Course -
+FREE -
+Quantity: 1&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/StackSkills-TW.png&quot; alt=&quot;https://stackskills.com/courses/enrolled&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;devops--systems-deployment-&quot;&gt;DevOps + Systems Deployment :&lt;/h1&gt;
+
+&lt;h5 id=&quot;letsencrypt-ssl-certificates-for-synology-&quot;&gt;LetsEncrypt SSL Certificates for Synology :&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.google.com/webhp?sourceid=chrome-instant&amp;amp;ion=1&amp;amp;espv=2&amp;amp;ie=UTF-8#q=synology%20letsencrypt&quot;&gt;Google Search - LetsEncrypt Synology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/synology/comments/3vdjgq/lets_encrypt_certs_work_great_on_synology_units/&quot;&gt;Reddit - LetsEncrypt Synology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://deepplaya.com/w7pea/2016/01/adding-letsencrypt-org-ssl-to-your-synology-nas/&quot;&gt;DIY - LetsEncrypt on Synology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.stefandingemanse.nl/how-to-use-lets-encrypt-ssl-certificate-on-synology-dsm/&quot;&gt;DSM 6 - LetsEncrypt&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 04 Apr 2016 20:00:00 -0500</pubDate>
+        <link>http://dash.jimhowk.com/2016/04/04/TW-React-Node-Plan/</link>
+        <guid isPermaLink="true">http://dash.jimhowk.com/2016/04/04/TW-React-Node-Plan/</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>react</category>
+        
+        <category>node</category>
+        
+        <category>developer</category>
+        
+      </item>
     
       <item>
         <title>TW Unicorn Training Notes</title>
@@ -45,8 +198,13 @@
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://devopsdsm.com/&quot;&gt;DevOps Des Moines&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://dsmjs.com&quot;&gt;Des Moines JavaScript User Group&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;&quot;&gt;Amazon AWS User Group - Des Moines,IA&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;&quot;&gt;Atlassian User Group - Des Moines, IA&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.meetup.com/AWS-User-Group-Des-Moines/&quot;&gt;Amazon AWS User Group - Des Moines,IA&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://aug.atlassian.com/cities/desmoinesia&quot;&gt;Atlassian User Group - Des Moines, IA&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.meetup.com/Iowa-City-Game-Dev-Meetup/&quot;&gt;Iowa City Game Dev User Group&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.meetup.com/techcorridorio/&quot;&gt;TechCorridor.io&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/igdfc/&quot;&gt;Iowa Game Dev Friendship Club&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/iowagamedev/?fref=ts&quot;&gt;Indie Game Developers of Iowa&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/ISUGameDevClub/?fref=ts&quot;&gt;Iowa State University Game Development Club&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -171,7 +329,12 @@ $31.50 via stacksocial&lt;/li&gt;
 &lt;h3 id=&quot;learning-academy--1&quot;&gt;Learning Academy :&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://training.mammothinteractive.com/&quot;&gt;Mammoth Interactive - howkj1&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.crowdcast.io/e/hacksummit-2016&quot;&gt;hack.summit 2016&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://training.mammothinteractive.com/&quot;&gt;Mammoth Interactive - howkj1&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/MammothInteractive1.png&quot; alt=&quot;http://training.mammothinteractive.com/&quot; /&gt;
